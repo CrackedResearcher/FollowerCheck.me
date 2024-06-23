@@ -42,7 +42,7 @@ have a look :)
 [![demo vid](https://img.youtube.com/vi/5OaDMfkzzXg/0.jpg)](https://www.youtube.com/watch?v=5OaDMfkzzXg)
 
 
-**LICENSE** : Mit license
+**LICENSE** : apache license
 
 **Made by**: Ayush K -- (me :)
              find me on twitter [here](https://x.com/@0xayush1), and do give a follow too 😀
