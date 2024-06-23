@@ -1,0 +1,29 @@
+
+{
+    "name": "FollowerCheck.me",
+    "version": "1.0",
+    "description": "Instagram wont tell you who unfollowed you -- but this chrome extension will!",
+    "manifest_version": 3,
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab",
+      "storage",
+      "tabs"
+    ],
+    "host_permissions": [
+      "https://www.instagram.com/*"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://www.instagram.com/*"],
+        "js": ["content.js"]
+      }
+    ]
+   
+  }
+  

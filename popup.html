@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FollowerCheck.me</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2>FollowerCheck.me</h2>
+      <hr />
+      <h4>Check who unfollowed you on instagram.</h4>
+      <p>
+        <i
+          >side note: before proceeding do open your 'followers' page & run this
+          extension only when you notice your follower count go down</i
+        >
+        😀
+      </p>
+      <br />
+      <button id="savefollowers">Save current followers</button>
+      <button id="checkUnfollowers">Find unfollowers</button>
+
+      <hr />
+      <div class="status">
+        <b class="savedfollowers" id="saveF">Your current followers: </b>
+        <p class="valueof_followers" id="valueof_followers">0</p>
+        <br />
+        <b class="Unfollowedby" id="checkUnF">Who unfollowed you:</b>
+        <p class="list_unfollowers" id="list_unfollowers">No one rn :)</p>
+      </div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
