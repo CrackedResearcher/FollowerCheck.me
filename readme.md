@@ -5,7 +5,7 @@
 ---
 ### Steps to install this chrome extension:
 
-1. clone this directory to your repo 
+1. clone this directory to your repo with this cmd: `git clone https://github.com/CrackedResearcher/FollowerCheck.me.git`
 2. open your browser and type `opera://extensions` or in case of chrome type `chrome://extensions`
 3. toggle `developer mode` ON, if its set to OFF
 4. Now click on `Load Unpacked` button and select the file that contains code for the extension 
