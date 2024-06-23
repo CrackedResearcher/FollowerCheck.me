@@ -47,7 +47,7 @@ have a look :)
 **Made by**: Ayush K -- (me :)
              find me on twitter [here](https://x.com/@0xayush1), and do give a follow too 😀
 
-             do have a look on the ai startup im building called CALMEMAIL - its an AI-powered email assistant that helps you save time and works like a assistant for you. Signup @[CalmEmail.ai](https://calmemailai.web.app)
+             do have a look on the ai startup im building called CALMEMAIL - its an AI-powered email assistant that helps you save time and works like a assistant for you. Signup @ [CalmEmail.ai](https://calmemailai.web.app)
 
 
 
