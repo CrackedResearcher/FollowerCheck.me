@@ -49,7 +49,9 @@ have a look :)
 
 ---
 
-### do have a look on the ai startup im building called CALMEMAIL - its an AI-powered email assistant that helps you save time and works like a assistant for you. Signup @ [CalmEmail.ai](https://calmemailai.web.app)
+>do have a look on the ai startup im building called CALMEMAIL -
+>its an AI-powered email assistant that helps you save time and works like a assistant for you.
+>Signup @ [CalmEmail.ai](https://calmemailai.web.app)
 ---
 
 
